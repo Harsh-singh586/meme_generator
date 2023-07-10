@@ -1,0 +1,33 @@
+.Input {
+    margin: 10px;
+}
+
+.b1 {
+    font-size: 100px !important;
+}
+
+.editor {
+    width: 800px !important;
+    border: 1;
+    border-radius: 16px;
+    margin: 100px;
+    margin-top: 20px;
+    padding: 50px;
+    background-color: white;
+
+}
+
+.center {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageSelector {
+    border: 1;
+    border-radius: 16px;
+    margin-top: 20px;
+    padding: 50px;
+    background-color: white;
+
+}
